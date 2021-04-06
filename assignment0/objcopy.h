@@ -1,0 +1,1 @@
+void copysec(char *file);
